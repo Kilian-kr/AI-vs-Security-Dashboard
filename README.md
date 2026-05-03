@@ -16,10 +16,10 @@ The goal is to surface correlations (or the absence thereof) between increasing 
 ## Screenshots
 
 ### Executive Overview
-![Executive Overview](https://github.com/Kilian-kr/AI-vs-Security---Dashboard/blob/main/screenshots/screenshot_executive_overview.png?raw=true)
+![Executive Overview](https://github.com/Kilian-kr/AI-vs-Security-Dashboard/blob/main/screenshots/screenshot_executive_overview.png?raw=true)
 
 ### Cyber Security Deep Dive
-![Cyber Security](https://github.com/Kilian-kr/AI-vs-Security---Dashboard/blob/main/screenshots/screenshot_cyber_security.png?raw=true)
+![Cyber Security](https://github.com/Kilian-kr/AI-vs-Security-Dashboard/blob/main/screenshots/screenshot_cyber_security.png?raw=true)
 
 ---
 
@@ -98,6 +98,13 @@ Hypotheses being explored:
 
 
 > Requires **Power BI Desktop** (free) — download at [powerbi.microsoft.com](https://powerbi.microsoft.com/desktop/)
+
+---
+
+## AI Assistance Disclosure
+
+
+The **documentation** (this README) was also with AI assistance and subsequently reviewed for factual correctness.
 
 ---
 
