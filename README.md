@@ -13,6 +13,13 @@ The goal is to surface correlations (or the absence thereof) between increasing 
 
 ---
 
+## AI Assistance Disclosure
+
+
+The **documentation** (this README) was generated with AI assistance and subsequently reviewed for factual correctness.
+
+---
+
 ## Screenshots
 
 ### Executive Overview
@@ -101,12 +108,7 @@ Hypotheses being explored:
 
 ---
 
-## AI Assistance Disclosure
 
-
-The **documentation** (this README) was also with AI assistance and subsequently reviewed for factual correctness.
-
----
 
 ## Contributing
 
